@@ -1,4 +1,4 @@
-package org.avro.example.codegen;
+package org.avro.example;
 
 import org.apache.avro.file.DataFileReader;
 import org.apache.avro.file.DataFileWriter;
