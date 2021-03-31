@@ -39,7 +39,7 @@ With that declaration `mvn compile` looks for **avsc** files under *${project.ba
 
 [2] `src/main/java/org/avro/example/Main` is the main class
 
-###[1] Example with code generation
+## Example with code generation
 #### Avro *.avsc* file
 `src/main/avro/user.avsc` contains the JSON structure we want to work with as object.\
 
